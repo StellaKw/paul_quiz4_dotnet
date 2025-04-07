@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\paul_quiz4_donet.props" />
+</Project>

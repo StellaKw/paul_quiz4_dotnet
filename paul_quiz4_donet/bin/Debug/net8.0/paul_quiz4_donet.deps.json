@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "paul_quiz4_donet/1.0.0": {
+        "runtime": {
+          "paul_quiz4_donet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paul_quiz4_donet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
