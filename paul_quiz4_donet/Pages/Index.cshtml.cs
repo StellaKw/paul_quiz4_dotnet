@@ -14,7 +14,7 @@ namespace paul_quiz4_donet.Pages
 
         public void OnGet()
         {
-            ViewData["Message"] = "Database access has already been done on April 1, 2025 by Paule Leslie Stella Kwate";
+            ViewData["Message"] = "Database access has already been done on April 1,2025 by Paule Leslie Stella Kwate";
         }
 
     }
